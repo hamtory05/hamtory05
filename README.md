@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=638BB2&text=JaeHyun's%20Github&section=header&fontSize=55&fontColor=000000&reversal=false" />
 
 <h1 align="center">Hello there! i'm JaeHyun👋</h1>
-<h1 align="center">Welcome to my Github Profile</h1>
 
 <a href="https://www.instagram.com/jaehyeon._.05/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
