@@ -3,7 +3,7 @@
 <h1 align="center">Hello there! i'm JaeHyun👋</h1>
 <h3 align="center">i am Beginner🤓</h3>
 
-## MY programming languege ⚙️
+## My programming tools 📌
 
 > 📚My favorite languege & studying languege📚
 
