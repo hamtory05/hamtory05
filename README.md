@@ -22,6 +22,10 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
+    <td align="center" width="96">
+        <img src="https://velog.velcdn.com/images/jakob1/post/b8150af5-24de-40fa-aeae-90e5e12ca47d/image.png" alt="icon" width="65" height="65" />
+      <br>C
+    </td>
  </tr>
 </table>
 
