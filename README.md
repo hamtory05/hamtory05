@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=638BB2&text=JaeHyun's%20Github&section=header&fontSize=55&fontColor=375266&reversal=false" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=638BB2&text=JaeHyun's%20Github&section=header&fontSize=55&fontColor=000000&reversal=false" />
 
 <h1 align="center">Hello there! My name is jaehyun lim. 👋</h1>
 <h3 align="center">i am Beginner🤓</h3>
