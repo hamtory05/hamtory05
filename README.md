@@ -29,7 +29,7 @@
  </tr>
 </table>
 
-<h3 align="center">✨ My Stats ✨</h3>
+##✨ My Stats ✨
 
 ![jaehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamtory05&show_icons=true&theme=radical)
 
