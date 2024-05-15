@@ -5,7 +5,7 @@
 
 ## MY programming languege ⚙️
 
-> My favorite languege & studying languege
+> 📚My favorite languege & studying languege📚
 
 <table>
   <tr>
@@ -21,12 +21,6 @@
     </td>
  </tr>
 </table>
-
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-</div>
 
 <h3 align="center">✨ My Stats ✨</h3>
 
