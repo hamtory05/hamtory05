@@ -23,7 +23,7 @@
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="http://www.creartbot.com/files/attach/images/5354/356/005/754b81485df1edc6370999b850e3fc71.png" alt="icon" width="65" height="65" />
+        <img src="https://i.namu.wiki/i/JQRdLiWNVflhkkSS93LUEubgLlznQCBxrtrVQrh2iYg6mOwIOPV6cQEshkuqIVE8KWzOhj8m92ZjMtRprsfOOw1VQw0YL_8TGsJHmTRg5k11FrtYCV4y3cjbozNhnZHvsjKeTaSzUkqK2F_i-fbd0g.svg" alt="icon" width="65" height="65" />
       <br>C
     </td>
  </tr>
