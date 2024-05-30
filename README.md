@@ -27,6 +27,18 @@
         <img src="https://i.namu.wiki/i/JQRdLiWNVflhkkSS93LUEubgLlznQCBxrtrVQrh2iYg6mOwIOPV6cQEshkuqIVE8KWzOhj8m92ZjMtRprsfOOw1VQw0YL_8TGsJHmTRg5k11FrtYCV4y3cjbozNhnZHvsjKeTaSzUkqK2F_i-fbd0g.svg" alt="icon" width="65" height="65" />
       <br>C
     </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
  </tr>
 </table>
 
