@@ -9,7 +9,7 @@
 <br>
 <br>
 <a>
-<img src="https://komarev.com/ghpvc/?username=hamtory05&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+<img src="https://komarev.com/ghpvc/?username=hamtory05&label=PROFILE+VIEWS&style=for-the-badge&color=blue">
 </a>
 
 <h3 align="center">i am Beginner🤓</h3>
