@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <h3 align="center">i am Beginner🤓</h3>
+<br>
 
 ## My programming tools 📌
 
@@ -41,6 +42,7 @@
     </td>
  </tr>
 </table>
+<br>
 
 ## ✨ My Stats ✨
 
