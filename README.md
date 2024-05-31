@@ -5,6 +5,13 @@
 <a href="https://www.instagram.com/jaehyeon._.05/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+
+<br>
+<br>
+<a>
+<img src="https://komarev.com/ghpvc/?username=hamtory05&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+</a>
+
 <h3 align="center">i am Beginner🤓</h3>
 <br>
 
