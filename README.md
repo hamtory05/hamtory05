@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=638BB2&text=JaeHyun's%20Github&section=header&fontSize=55&fontColor=000000&reversal=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=JeHyn's%20GitHub&textBg=false&fontAlignY=44&animation=fadeIn&descAlign=50&section=header&reversal=false&fontSize=60" />
 
 <h1 align="center">Hello there! i'm JaeHyun👋</h1>
 
